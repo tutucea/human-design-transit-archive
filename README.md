@@ -10,8 +10,8 @@ This repository is curated strictly for **research, data analysis, and computati
 
 * `neptune_1781_2025.txt` — Neptune transit records (1781–2025)
 * `pluto_1781_2025.txt` — Pluto transit records (1781–2025)
-* `uranus_1781_2025.txt` — Uranus transit records (1781–2025)
-* `nodes_1781_2025.txt` — North Node transit records (1781–2025)
+* `uranus_1781_1900.txt` — Uranus transit records (1781–1900)
+* `nodes_1781_1900.txt` — North Node transit records (1781–1900)
 
 ## Data Format
 
